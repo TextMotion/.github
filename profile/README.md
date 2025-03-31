@@ -1,4 +1,4 @@
-## Hi TextMotion 👋
+## TextMotion 👋
 
 
 **Here are some ideas to get you started:**
